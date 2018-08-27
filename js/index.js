@@ -395,7 +395,7 @@ $(function(){
 	var appcount4=0; 
 	var timer1=null;
 
-	app();
+	//app();
 
 	function setInte(){		
 		timer1=setInterval(function(){
@@ -419,7 +419,7 @@ $(function(){
 	
 
 	$(window).scroll(function(){
-		app();
+		//app();
 	})
 	function app(){
 		if($('.app-one').offset().top<=$(document).scrollTop()+$(window).height() && $('.app-one').offset().top+$('.app-one').height()>=$(document).scrollTop() && appcount4==0){

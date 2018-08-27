@@ -1,12 +1,12 @@
 body{font-family:arial,verdana,helvetica,'PingFang SC','HanHei SC',STHeitiSC-Light,Microsoft Yahei,sans-serif;}
-#login{background:#5DD5C8 url(../image/newbg.png) no-repeat center bottom;}
+#login{background:#5DD5C8 }
 .login-logo{margin-left:60px;margin-top:56px;display: inline-block;width:246px;}
 .login-logo img{float:left;}
 .login-logo span{float:right;font-size: 18px;font-weight: 400;color: #fff;line-height:26px;margin-top:4px;}
 .login-form{height:520px;width:324px;background: #fff;position: absolute;left:50%;top:50%;margin:-268px 0 0 -205px;border-radius: 8px;box-shadow:1px 2px 15px rgba(0,0,0,.3);padding:32px 43px 0;}
 .login-form h2{text-align: center;color:#5dd5c8;font-size: 26px;font-weight: 400}
 .login-list{margin-top:30px;border-bottom:2px #F2F5F9 solid;}
-.login-list li{float:left;width:70px;line-height: 45px;cursor:pointer;border-bottom:2px #F2F5F9 solid;margin-bottom:-2px }
+.login-list li{float:left;width:100px;line-height: 45px;cursor:pointer;border-bottom:2px #F2F5F9 solid;margin-bottom:-2px }
 .login-list li span{color:#9fa3b0;}
 .loginli-mid{margin:0 57px;text-align: center}
 .loginli-bon{text-align: right}

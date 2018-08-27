@@ -113,8 +113,6 @@ body{background: #F2F2F5;color:#61687c;font-family: arial,verdana,helvetica,'Pin
 .job-listfir i{margin:0 5px;width:16px;height:16px;vertical-align: middle;background-position: 4px -886px;display: inline-block;display:none;}
 .listLimitpre,.listLimitnext{display: none;padding:3px 8px;border:1px solid #F6F6F8;height:16px;line-height: 16px;cursor:pointer;}
 
-
-
 .app-one{background:#62D5C8 url(../image/app-bg.png) no-repeat center bottom;height:803px;position: relative;}
 .appOneLeft{position: absolute; width:502px;left:170px;background: url(../image/figure-phone-app.png) no-repeat center bottom;height:660px;top:70px;}
 .appOneLeftani{animation: appleft 1s ease forwards;-webkit-animation:appleft 1s ease forwards;}
